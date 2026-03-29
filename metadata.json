@@ -1,0 +1,5 @@
+{
+  "name": "Elite Growth Logbook",
+  "description": "A clinical-grade, mobile-first PWA for the Elite Growth Protocol, featuring local IndexedDB storage and advanced biomechanical tracking.",
+  "requestFramePermissions": ["camera"]
+}
